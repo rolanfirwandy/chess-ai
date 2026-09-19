@@ -1,0 +1,6 @@
+{
+  "name": "Chess",
+  "description": "Play chess against smart AI or pass-to-play with friends, featuring move history tracking and customizable board themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
